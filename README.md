@@ -1,4 +1,4 @@
-# discord-status-mc-bot
+> # discord-status-mc-bot
 Hello, today we came with a normal code discord status mc bot. This code is written in python, it is not very normal and professional, we will unveil professional codes soon.
 
 To use the code, first install python on your server and then install it in your windows search, search for cmd and open it, then enter pip install discord mcstatus in cmd, after installing the libraries, open the code we are going to and you have to configure two places, first place
